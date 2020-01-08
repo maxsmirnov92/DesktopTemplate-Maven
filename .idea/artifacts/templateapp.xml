@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="templateapp">
+    <output-path>$PROJECT_DIR$/out/artifacts/templateapp</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="net.maxsmr.templateapp.MainApp" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="TemplateApp" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="templateapp.jar">
+        <element id="module-output" name="templateapp" />
+      </element>
+    </root>
+  </artifact>
+</component>

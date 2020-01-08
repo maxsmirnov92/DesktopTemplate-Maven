@@ -1,0 +1,6 @@
+# Default ignored files
+/workspace.xml
+/uiDesigner.xml
+/vcs.xml
+/libraries/*
+!/libraries/JavaFX.xml
